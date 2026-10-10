@@ -2,7 +2,7 @@
 
 Effective date: 10 October 2026
 
-testapp is a static app provided by [Developer Name]. It displays content without requiring an account or collecting user data.
+testapp is a static app provided by Ammerender Singh. It displays content without requiring an account or collecting user data.
 
 ## Data collection and storage
 
@@ -22,7 +22,7 @@ The app does not collect personal information from anyone, including children.
 
 ## Contact
 
-For questions about this policy, contact [Contact Email]. If you contact us by email, we will use the information you provide only to respond to your enquiry.
+For questions about this policy, contact supppothy@gmail.com. If you contact us by email, we will use the information you provide only to respond to your enquiry.
 
 ## Changes to this policy
 
